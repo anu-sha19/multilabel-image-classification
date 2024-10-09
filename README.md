@@ -41,7 +41,8 @@ Before you begin, ensure you have the following installed:
 You can install the required libraries using pip:
 
 ```bash
-pip install numpy pandas scikit-learn tensorflow matplotlib'''
+pip install numpy pandas scikit-learn tensorflow matplotlib
+```
 
 ## Dataset
 
