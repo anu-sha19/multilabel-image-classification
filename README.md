@@ -54,7 +54,8 @@ Sample Size: [Number of data points in the dataset]
 
 ###Example of a Data Point 
 
-'''Data Point: Image1
+```Data Point: Image1
 Known Labels: {dog, outdoor}
-Missing Labels: {grass, pet} (not available in the training set)'''
+Missing Labels: {grass, pet} (not available in the training set)
+```
 
