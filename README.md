@@ -1,6 +1,6 @@
 # Multi-label Classification with Missing Labels
 
-![Kaggle Competition Badge](https://img.shields.io/badge/Kaggle-Competition-orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-Competition-orange)
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue.svg)
