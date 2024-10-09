@@ -52,7 +52,7 @@ Input Type: (e.g., images, text)
 Number of Classes: [Total number of possible labels]
 Sample Size: [Number of data points in the dataset]
 
-###Example of a Data Point 
+### Example of a Data Point 
 
 ```Data Point: Image1
 Known Labels: {dog, outdoor}
